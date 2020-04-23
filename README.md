@@ -15,5 +15,7 @@ feature maps at different deep level are upsampled to match dimensions, joined a
 
 The idea is to keep the network simple and a relatively low number of parameters, in order to be able to process video very fast.
  
- 
-<img align="center" src="gif_mini.gif">
+<p align="center">
+  <img src="gif_mini.gif">
+</p>
+
