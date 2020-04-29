@@ -18,6 +18,6 @@ The idea is to keep the network simple and a relatively low number of parameters
  Notebook of the project on nbviewer: [Notebook](https://nbviewer.jupyter.org/github/EgonFerri/Deepball_Reimplementation/blob/master/Deepball_reimplementation.ipynb)
  
 <p align="center">
-  <img src="mini_gif.gif">
+  <img src="compressed_gif.gif">
 </p>
 
